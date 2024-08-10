@@ -32,9 +32,9 @@ Contributions to this project are welcome! Feel free to submit bug reports, feat
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Anuj Kumar Chaudhary.
+Dev Gupta.
 
 ## Contact
-For any inquiries or feedback, please contact anuj.kumarchaudhary038@gmail.com
+For any inquiries or feedback, please contact devgupta741dg0@gmail.com
 
 Thank you for your interest in the Coal Miner Sensor Monitoring System!
